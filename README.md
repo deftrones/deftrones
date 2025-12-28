@@ -11,6 +11,8 @@
 
 <p align="center"> ⟢‎ ‎ minor
 <p align="center"> ‎ 
+<p align="center"> ⟢‎ ‎ dncopy/cover skins (or anybody elses w/o their permission)
+<p align="center"> ‎ 
 <p align="center"> ⟢‎ ‎ w2iuf/party
 <p align="center"> ‎ 
 <p align="center"> ⟢‎ ‎ mainly offtab guys mb
